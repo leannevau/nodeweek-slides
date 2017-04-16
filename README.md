@@ -1,4 +1,4 @@
 # nodeweek-slides
 Slides from NodeWeek April 2017
 
-[Test Link](https://talks.continuation.io/nodeweek-4-17)
+[The State of Node Core - Colin Ihrig](https://talks.continuation.io/nodeweek-4-17)
